@@ -5,5 +5,5 @@ This is a two player game, the player with highest number on dice wins.
 **Technologies used:** 
 >HTML, CSS, Javascript and DOM
 
-**Snapshot**
+## Snapshot
 ![Screenshot](DiceGame.jpg)
